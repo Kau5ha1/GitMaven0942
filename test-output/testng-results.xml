@@ -8,26 +8,26 @@
       <![CDATA[priority : 2]]>
     </line>
   </reporter-output>
-  <suite started-at="2024-05-08T15:51:56 IST" name="Default suite" finished-at="2024-05-08T15:51:56 IST" duration-ms="128">
+  <suite started-at="2024-05-13T22:25:54 IST" name="Default suite" finished-at="2024-05-13T22:25:54 IST" duration-ms="81">
     <groups>
     </groups>
-    <test started-at="2024-05-08T15:51:56 IST" name="Default test" finished-at="2024-05-08T15:51:56 IST" duration-ms="128">
+    <test started-at="2024-05-13T22:25:54 IST" name="Default test" finished-at="2024-05-13T22:25:54 IST" duration-ms="81">
       <class name="mavenforjenkins.jenkinTest">
-        <test-method signature="test1()[pri:1, instance:mavenforjenkins.jenkinTest@2fb3536e]" started-at="2024-05-08T15:51:56 IST" name="test1" finished-at="2024-05-08T15:51:56 IST" duration-ms="41" status="PASS">
+        <test-method signature="test1()[pri:1, instance:mavenforjenkins.jenkinTest@47987356]" started-at="2024-05-13T22:25:54 IST" name="test1" finished-at="2024-05-13T22:25:54 IST" duration-ms="13" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[priority : 1]]>
             </line>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method signature="test2()[pri:2, instance:mavenforjenkins.jenkinTest@2fb3536e]" started-at="2024-05-08T15:51:56 IST" name="test2" finished-at="2024-05-08T15:51:56 IST" duration-ms="1" status="PASS">
+        <test-method signature="test2()[pri:2, instance:mavenforjenkins.jenkinTest@47987356]" started-at="2024-05-13T22:25:54 IST" name="test2" finished-at="2024-05-13T22:25:54 IST" duration-ms="1" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[priority : 2]]>
             </line>
           </reporter-output>
         </test-method> <!-- test2 -->
-        <test-method signature="test3()[pri:3, instance:mavenforjenkins.jenkinTest@2fb3536e]" started-at="2024-05-08T15:51:56 IST" name="test3" finished-at="2024-05-08T15:51:56 IST" duration-ms="2" status="PASS">
+        <test-method signature="test3()[pri:3, instance:mavenforjenkins.jenkinTest@47987356]" started-at="2024-05-13T22:25:54 IST" name="test3" finished-at="2024-05-13T22:25:54 IST" duration-ms="2" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test3 -->
